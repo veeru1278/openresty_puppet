@@ -7,7 +7,7 @@
 * Place the module "openresty" in /etc/puppet/modules folder
 * Run command : puppet apply --modulepath=/etc/puppet/modules -e "include openresty" --debug
 
-<i>on Mater-agent Arch:</i>
+<i>on Master-agent Arch:</i>
 * Use the module on master sever, 
 * sync the agent with master
 * run puppet agent command on Agent Node Server.
